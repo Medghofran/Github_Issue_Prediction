@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predict", "Predict\Predict.csproj", "{96FBAF47-42D3-404C-B27D-744F2BC1EA5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96FBAF47-42D3-404C-B27D-744F2BC1EA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FBAF47-42D3-404C-B27D-744F2BC1EA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FBAF47-42D3-404C-B27D-744F2BC1EA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FBAF47-42D3-404C-B27D-744F2BC1EA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21370E9A-49D9-40ED-81F9-3352873D116E}
+	EndGlobalSection
+EndGlobal

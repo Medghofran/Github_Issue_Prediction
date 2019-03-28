@@ -1,0 +1,23 @@
+# Number of terms = 22
+0	area-System.Xml
+1	area-System.Numerics
+2	area-Infrastructure
+3	area-Meta
+4	area-System.Linq
+5	area-System.IO
+6	area-System.Console
+7	area-System.Runtime
+8	area-System.Text
+9	area-System.Collections
+10	area-System.Reflection
+11	area-System.Diagnostics
+12	area-System.Security
+13	area-System.Threading
+14	area-System.Net
+15	area-System.ComponentModel
+16	area-System.Globalization
+17	area-Microsoft.CSharp
+18	area-Serialization
+19	area-System.Drawing
+20	area-System.Data
+21	area-System.Memory
